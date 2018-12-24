@@ -13,7 +13,8 @@ As a corollary, our goal is not to teach the students the specifics of the parti
 manual for an arbitrary development libraries and environments that we use. 
 
 ### Ease of Implementation
-
+Often, the barrier to quality education is a lack of resources. Our goal is to make the curricula as easy to realize as we can,
+both in terms of the ease of teaching them and the affordability of implementing them. 
 
 ### An Open Platform
 We understand that different situations call for different approaches. We aim to keep the curricula flexible, both in terms 
