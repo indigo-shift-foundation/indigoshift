@@ -63,3 +63,6 @@ The other parts listed are miscellaneous parts that are used to glue together th
 ## Assembly
 
 To be added.
+
+If you need assistance in assembling the robots, or would like to receive pre-assembled robots, please contact us at <support@indigoshift.org>.
+We will be happy to help.
