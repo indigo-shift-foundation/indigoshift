@@ -28,7 +28,7 @@ The current version consists of a motorized car and a couple of sensors used to 
 See more details [here](hardware/README.md).
 
 ## Software Library
-The current version Arduino IDE based library provides abstractions over the Arduino hardware so that participants are not distracted by the 
+The current version of the Arduino IDE based library provides abstractions over the Arduino hardware so that participants are not distracted by the 
 details of the hardware, such as the pin layout, voltage control, and etc.
 See more details [here](library/arduino/README.md).
 

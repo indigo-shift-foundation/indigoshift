@@ -37,6 +37,9 @@ void Annie::begin() {
 	pinMode(A0, INPUT_PULLUP);
 	while(digitalRead(A0) == HIGH) {}
 	delay(500);
+
+	//Set the default speed
+	Annie::setSpeed(DEFAULT_SPEED);
 }
 
 void Annie::sendSignal(int pin, int signal) {
@@ -141,11 +144,6 @@ void Annie::turnCCW(int milliseconds) {
 void Annie::stop() {
 	Annie::sendSignal(_leftSpeedPin, 0);
 	Annie::sendSignal(_rightSpeedPin, 0);
-}
-
-void Annie::stop(int milliseconds) {
-	Annie::stop();
-	delay(milliseconds);
 }
 
 bool Annie::detectsObject() {
