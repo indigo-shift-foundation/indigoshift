@@ -25,12 +25,12 @@ We fully encourage and embrace input from all stake holders, especially the inst
 
 ## Hardware Specifications
 The current version consists of a motorized car and a couple of sensors used to allow the robot to react to its surroundings.
-See more details [here](hardware/README.md).
+See more details [here](hardware/).
 
 ## Software Library
 The current version of the Arduino IDE based library provides abstractions over the Arduino hardware so that participants are not distracted by the 
 details of the hardware, such as the pin layout, voltage control, and etc.
-See more details [here](library/arduino/README.md).
+See more details [here](library/arduino/).
 
 ## Lesson Plans
 

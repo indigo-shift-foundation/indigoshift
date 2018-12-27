@@ -26,5 +26,5 @@ This program is named after one of the coolest, but often overlooked, astronomer
 She was a pioneer of contemporary stellar classification, and paved the way for (still incomplete) equality in academic fields 
 for people of all backgrounds.
 
-[You can find the details of the program here](annie/README.md)
+[You can find the details of the program here](annie/)
 
