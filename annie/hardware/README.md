@@ -3,6 +3,8 @@
 The robot is a basic programmable car with two controllable wheels, a proximity sensor facing forward, and two light sensors 
 facing down.
 
+![The Robot](/annie/images/annie_assembled_0.jpg)
+
 ## Parts
 Below is a table of the parts that make up the robot in the current version.
 
