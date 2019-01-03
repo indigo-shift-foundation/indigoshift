@@ -3,6 +3,8 @@
 Annie is a set of programmable robotics hardware, its associated software library, and a collection of curricula designed to introduce students to robotics.
 The lessons are primarily targeted toward secondary school students, ages 12 and up, who has never had exposure to electronics and computer programming.
 
+![Robog](/annie/images/annie_small_0.jpg)
+
 ## Goals
 
 We have a set of goals that we think should guide the development and implementation of the curricula:
